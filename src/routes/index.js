@@ -1,8 +1,8 @@
-import message from './message';
+import message from './tutorial/message';
 import nasa from './nasa';
 import search from './search';
-import session from './session';
-import user from './user';
+import session from './tutorial/session';
+import user from './tutorial/user';
 
 export default {
   session,
